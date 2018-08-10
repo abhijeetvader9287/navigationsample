@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:18:1-47:12
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:18:1-47:12
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:18:1-47:12
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:18:1-47:12
+MERGED from [com.android.support:design:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2e80da8e1df3cc923e084a57dbaa8a7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aee97fdc91341c08bf1c4b473125f6dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/e90b2384bf1b86fb4b62fff686c5823d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/614217232a8a552b0a3c60aebc0816b3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-ktx:0.3] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/core-ktx-0.3.aar/044ff78d79573238809ac8fcad18443c/AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha04] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/navigation-fragment-1.0.0-alpha04.aar/498ec350e1d55dc00b29fcc1f58b269d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha04] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/navigation-runtime-1.0.0-alpha04.aar/3ef27d21c12f6a7264dd16ca9b750551/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a9597cfd8cae6d263e51dc78b89e6c01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/556dd1ea8b020230a7c13cc0f3c6e5c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/dbdf2a41f39033d5254d1788338f7df2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6513ee6807be38d06228fc9da4f02c59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8a51916b8b764f644619b4f7806aa22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3a2eca0571a68989eeafde6ea9896e2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/9f1556c50fc14c91ad8b9d21bd0bb8db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/18c58e88e1930caf7fcbe15af68192eb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha04] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/navigation-common-1.0.0-alpha04.aar/de60d9fc4a5637e930a2c924f74284a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/07bcb757afcc7135e4d2dcf3ffa4ab74/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a85b29debe9da3f8d2555fad43143a55/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/813b965db176706b48d9e2a3816c12d6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dd133ac184b2502cc46b80108a5191cb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8843696109f2fe227f5d91f11c6de360/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:18:1-47:12
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:18:1-47:12
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:18:1-47:12
+	package
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:18:1-47:12
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:18:1-47:12
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:21:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/614217232a8a552b0a3c60aebc0816b3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/614217232a8a552b0a3c60aebc0816b3/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.navigationsample.MainActivity
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:28:9-44:20
+	android:name
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:28:19-83
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:32:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.example.com+data:pathPrefix:/user/+data:scheme:http+data:scheme:https
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:35:13-43:29
+action#android.intent.action.VIEW
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:37:17-75
+	android:name
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:37:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:38:27-75
+data
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:39:17-47
+	android:host
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:41:23-53
+	android:scheme
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:39:23-45
+	android:pathPrefix
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml:42:23-50
+uses-sdk
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2e80da8e1df3cc923e084a57dbaa8a7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2e80da8e1df3cc923e084a57dbaa8a7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aee97fdc91341c08bf1c4b473125f6dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aee97fdc91341c08bf1c4b473125f6dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/e90b2384bf1b86fb4b62fff686c5823d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/e90b2384bf1b86fb4b62fff686c5823d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/614217232a8a552b0a3c60aebc0816b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/614217232a8a552b0a3c60aebc0816b3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:0.3] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/core-ktx-0.3.aar/044ff78d79573238809ac8fcad18443c/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:0.3] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/core-ktx-0.3.aar/044ff78d79573238809ac8fcad18443c/AndroidManifest.xml:5:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha04] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/navigation-fragment-1.0.0-alpha04.aar/498ec350e1d55dc00b29fcc1f58b269d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha04] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/navigation-fragment-1.0.0-alpha04.aar/498ec350e1d55dc00b29fcc1f58b269d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha04] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/navigation-runtime-1.0.0-alpha04.aar/3ef27d21c12f6a7264dd16ca9b750551/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha04] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/navigation-runtime-1.0.0-alpha04.aar/3ef27d21c12f6a7264dd16ca9b750551/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a9597cfd8cae6d263e51dc78b89e6c01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a9597cfd8cae6d263e51dc78b89e6c01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/556dd1ea8b020230a7c13cc0f3c6e5c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/556dd1ea8b020230a7c13cc0f3c6e5c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/dbdf2a41f39033d5254d1788338f7df2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/dbdf2a41f39033d5254d1788338f7df2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6513ee6807be38d06228fc9da4f02c59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6513ee6807be38d06228fc9da4f02c59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8a51916b8b764f644619b4f7806aa22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8a51916b8b764f644619b4f7806aa22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3a2eca0571a68989eeafde6ea9896e2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3a2eca0571a68989eeafde6ea9896e2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/9f1556c50fc14c91ad8b9d21bd0bb8db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/9f1556c50fc14c91ad8b9d21bd0bb8db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/18c58e88e1930caf7fcbe15af68192eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/18c58e88e1930caf7fcbe15af68192eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha04] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/navigation-common-1.0.0-alpha04.aar/de60d9fc4a5637e930a2c924f74284a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha04] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/navigation-common-1.0.0-alpha04.aar/de60d9fc4a5637e930a2c924f74284a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/07bcb757afcc7135e4d2dcf3ffa4ab74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/07bcb757afcc7135e4d2dcf3ffa4ab74/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a85b29debe9da3f8d2555fad43143a55/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a85b29debe9da3f8d2555fad43143a55/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/813b965db176706b48d9e2a3816c12d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/813b965db176706b48d9e2a3816c12d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dd133ac184b2502cc46b80108a5191cb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dd133ac184b2502cc46b80108a5191cb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8843696109f2fe227f5d91f11c6de360/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8843696109f2fe227f5d91f11c6de360/AndroidManifest.xml:20:5-44
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/NavigationBasicSample/app/src/main/AndroidManifest.xml
